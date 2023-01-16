@@ -14,7 +14,7 @@
   <img align="center" alt="yvesls-SQL" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="yvesls-JQ"height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
   <img align="center" alt="yvesls-WP"height="40" width="40" src="https://img.icons8.com/color/48/000000/wordpress.png"/>
-  <img align="center" alt="yvesls-JV"height="40" width="40" src="https://img.icons8.com/color/512/java-coffee-cup-logo.png"/>
+  <img align="center" alt="yvesls-JV"height="40" width="60" src="https://img.icons8.com/color/512/java-coffee-cup-logo.png"/>
                             
 </div>
 <br>
