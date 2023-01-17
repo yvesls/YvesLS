@@ -1,7 +1,11 @@
 <h1>Olá! Eu sou o Yves</h1>
 <div align="center">
   <a href="https://github.com/yvesls">
-  <picture>
+  
+ 
+  <img height="470em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvesls&langs_count=5&theme=dark"/>
+     <br>
+    <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=yvesls&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)"
@@ -12,8 +16,6 @@
     />
     <img src="https://github-readme-stats.vercel.app/api?username=yvesls&show_icons=true" />
   </picture>
-  <br>
-  <img height="470em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvesls&langs_count=5&theme=dark"/>
 </div>
 
 <div style="display: inline_block; margin-bottom: 20px;"> <br>
