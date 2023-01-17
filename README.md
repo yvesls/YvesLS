@@ -5,8 +5,8 @@
   <br>
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvesls&layout=compact&langs_count=7&theme=dark"/>
      <br>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8"/>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvesls&langs_count=6"/>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvesls&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div style="display: inline_block; margin-bottom: 20px;"> <br>
