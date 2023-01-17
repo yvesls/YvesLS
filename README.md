@@ -5,7 +5,7 @@
   <br>
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvesls&layout=compact&langs_count=7&theme=dark"/>
      <br>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvesls&langs_count=6"/>
+  <img height="250em" src="https://github.com/yvesls/github-readme-stats"/>
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvesls&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
