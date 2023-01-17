@@ -1,12 +1,23 @@
 <h1>Olá! Eu sou o Yves</h1>
 <div align="center">
   <a href="https://github.com/yvesls">
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=yvesls&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=yvesls&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=yvesls&show_icons=true" />
+</picture>
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=yvesls&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
   <br>
   <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvesls&layout=compact&langs_count=7&theme=dark"/>
      <br>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/wakatime?username=yvesls"/>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yvesls&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvesls&langs_count=5"/>
+   <br>
 </div>
 
 <div style="display: inline_block; margin-bottom: 20px;"> <br>
