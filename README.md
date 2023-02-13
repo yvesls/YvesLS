@@ -25,9 +25,10 @@
   <img align="center" alt="yvesls-JV"height="50" width="50" src="https://img.icons8.com/color/512/java-coffee-cup-logo.png"/>
   <img align="center" alt="yvesls-SQL" height="40" width="40"  src="https://img.icons8.com/external-soft-fill-juicy-fish/512/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png">
   <img align="center" alt="yvesls-MYSQL" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="yvesls-MONGODB" height="60" width="60"  src="https://icons8.com.br/icon/74402/mongodb">
   <img align="center" alt="yvesls-JQ"height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
   <img align="center" alt="yvesls-WP"height="40" width="40" src="https://img.icons8.com/color/48/000000/wordpress.png"/>
-  <img align="center" alt="yvesls-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">                       
+  <img align="center" alt="yvesls-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 </div>
 <br>
 <a href = "mailto:yveslimasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
