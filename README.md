@@ -3,7 +3,7 @@
   <a href="https://github.com/yvesls">
   
  
-  <img height="470em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvesls&layout=compact&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvesls&layout=compact&theme=dark"/>
      <br>
     <picture>
     <source 
